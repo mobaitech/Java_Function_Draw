@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/exp4j-0.4.8-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

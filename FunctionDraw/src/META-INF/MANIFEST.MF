@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: practice.FunctionDraw
+Class-Path: exp4j-0.4.8.jar
+

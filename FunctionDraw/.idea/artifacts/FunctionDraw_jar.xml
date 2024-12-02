@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="FunctionDraw:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FunctionDraw_jar</output-path>
+    <root id="root">
+      <element id="archive" name="FunctionDraw.jar">
+        <element id="module-output" name="FunctionDraw" />
+      </element>
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>

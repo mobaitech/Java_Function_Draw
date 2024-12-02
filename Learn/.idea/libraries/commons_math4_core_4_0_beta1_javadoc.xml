@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="commons-math4-core-4.0-beta1-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-math4-core-4.0-beta1-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/lib/commons-math4-core-4.0-beta1-javadoc.jar!/" recursive="false" />
+  </library>
+</component>
